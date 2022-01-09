@@ -22,3 +22,14 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
+
+.form-control input.invalid {
+  border: salmon;
+  background: salmon;
+}
+
+.form-control.invalid label{
+  color: salmon;
+}
+
+
